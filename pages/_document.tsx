@@ -40,6 +40,7 @@ export default class MyDocument extends Document {
 
           <body>
             <script src='noflash.js' />
+            <script async src='crisp.js' />
 
             <Main />
 
