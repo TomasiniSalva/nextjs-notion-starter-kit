@@ -1,6 +1,6 @@
 {
-  "name": "Transitive Bullshit",
-  "short_name": "Transitive BS",
+  "name": "草榴社区邀请码",
+  "short_name": "草榴邀请码",
   "icons": [
     {
       "src": "/favicon-16x16.png",
@@ -34,6 +34,6 @@
     }
   ],
   "theme_color": "#F898B9",
-  "background_color": "#ffffff",
+  "background_color": "#f9f9ec",
   "display": "standalone"
 }
