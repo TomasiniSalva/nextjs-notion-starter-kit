@@ -35,6 +35,7 @@ export default class MyDocument extends Document {
             />
 
             <link rel='manifest' href='/manifest.json' />
+            <meta name="keywords" content="草榴社區,草榴,草榴社区邀请码,草榴邀请码,1024 邀请码" />
           </Head>
 
           <body>
